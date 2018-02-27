@@ -1,0 +1,17 @@
+{
+    "name": "MaxCode-App",
+    "short_name": "maxcodeapp",
+    "display": "standalone",
+    "orientation": "portrait",
+    "description": "Basic laravel-like front-end boilerplate",
+    "developer": {
+      "name": "Joaquin Rizer",
+      "url": "http://maxcode.com.ar/"
+    }
+    "icons": [{
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "start_url": "/"
+}

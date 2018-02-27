@@ -1,0 +1,47 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+                   `-/osyhdmmNNmmdhyso/-`                   
+               ./sdmmdyo+/:--..--:/+oydmmds/.               
+            .odNmy+-`                  `-+ymNdo.            
+          /hNdo-                   `    `d  -odNh/`         
+        +dNh:                     /Mh.  dM:    :yNm+`       
+      :dNh-                       sMMNohMMh+`    -yNd:      
+    `sNm:                         sMMMMMMMMMN.     :dNs`    
+   .dNy-`                         yMMMMMMMMMMm-     `yNd.   
+  .dNs  :so`                    .dMMMMMMMMMMMMN:      sNd.  
+ `dNy     omy/`                :NMMMMMMMMMMMMMMN`      sNd` 
+ sNd`      `/yNdo:--:::/+++++smMMMMMMMMMMhmMMMNy`      `dNs 
+.mN:          `dMMMMMMMMMMMMMMMMMMMMMMMMMo .--          :Nm.
+oNd          oNMMMMMMMMMMMMMMMMMMMMMMMMMMy               dNo
+hNo         oMMMMMMMMMMMMMMMMMMMMMMMMMMMMs               oNd
+mN+        -MMMMMMMMMMMMMMMMMMMMMMMMMMMMM-               /Nm
+mN+        hMMMMMMMNddMMMMMMMMMMMMMMMMMM+                /Nm
+hNs       .MMMyhMm/   -shmMMMMMMMMMMmMMM.                oNd
+oNd      :NMs` hM`         ``-yMMMm-+MMy                 dNo
+.mN:     sM:   os-            -MMM+ /MM`                :Nm.
+ oNd`    NM:                   yMM/ -Mm                `dNs 
+ `hNy    +s:                   oMMs :MMo               yNd` 
+  `dNy                         `MMh `ooo              sNd.  
+   `hNh.                       `dNNs                `hNh.   
+     sNm/                                          /mNs`    
+      :dNh:               MaxCode                -hNd:      
+        /dNh/                                  :hNd/        
+          /hmms:                            :smNh/          
+            .+hmmy+-`                  /-+ymmh+.            
+               `/shmNdys+/::----::/+sydmmhs/`               
+                    -/+syhddmmmmmdhys+/-
+
+# TEAM
+
+    Joaquin Rizer -- FrontEnd Dev -- http://maxcode.com.ar
+    Joaquin Rizer -- BackEnd Dev -- http://maxcode.com.ar
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Node.js, SASS, Babel, Browsersync, Git, webpack
